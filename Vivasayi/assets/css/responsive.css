@@ -1164,6 +1164,9 @@
 }
 
 @media (max-width: 1199px) {
+	.topbar-one .container {
+		display: none;
+	}
     .topbar-one .topbar_bg {
         display: none;
     }

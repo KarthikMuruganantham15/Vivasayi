@@ -90,6 +90,18 @@ h6 {
     .container {
         max-width: 1200px;
     }
+	.container .main-nav__main-navigation{
+		padding-left: 35px;
+	}
+}
+
+@media (min-width: 1300px) {
+    .container {
+        max-width: 1300px;
+    }
+	.container .main-nav__main-navigation{
+		padding-left: 45px;
+	}
 }
 
 .auto-container {
@@ -614,7 +626,7 @@ h6 {
     z-index: 1;
 }
 .topbar-one .container {
-    min-height: 126px;
+    min-height: 56px;
     position: relative;
     display: -webkit-box;
     display: flex;
@@ -726,7 +738,7 @@ h6 {
     max-width: 45px;
     display: block;
     margin-right: 100px;
-    padding: 32px 0 15px;
+    /* padding: 32px 0 15px; */
 }
 .main-nav__search {
     position: relative;
@@ -1614,6 +1626,11 @@ h6 {
     color: var(--thm-base);
 }
 
+.main-nav__logo .main-logo {
+	height: 66px;
+	width: 142px;
+}
+
 /*--------------------------------------------------------------
 # Sidemenu
 --------------------------------------------------------------*/
@@ -2007,7 +2024,7 @@ h6 {
     right: 0;
     height: 23px;
     width: 365px;
-    background: url(../images/icon/line1.png);
+    /* background: url(../images/icon/line1.png); */
     background-repeat: no-repeat;
     content: "";
 }
