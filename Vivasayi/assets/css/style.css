@@ -9170,7 +9170,7 @@ h6 {
 .about_two {
     position: relative;
     display: block;
-    padding: 120px 0 120px;
+    padding: 120px 0 0px;
 }
 .about_two .block-title {
     margin-bottom: 55px;
