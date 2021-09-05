@@ -968,7 +968,7 @@ h6 {
     padding: 25px 0px 25px;
 }
 .stricked-menu.stricky-fixed .main-nav__left {
-    padding: 29px 0 23px;
+    /* padding: 29px 0 23px; */
 }
 .stricked-menu.stricky-fixed .main-nav__right .icon_cart_box {
     padding: 29px 0 23px;
@@ -9230,7 +9230,7 @@ h6 {
 .best_company {
     position: relative;
     display: block;
-    padding: 120px 0 120px;
+    padding: 120px 0 50px;
 }
 .company_image {
     margin-right: 82px;
@@ -9286,7 +9286,6 @@ h6 {
 .company_solutions {
     position: relative;
     display: block;
-    padding: 120px 0 79px;
 }
 .company_solutions .block-title {
     margin-bottom: 55px;

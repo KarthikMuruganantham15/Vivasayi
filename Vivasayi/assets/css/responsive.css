@@ -1318,6 +1318,9 @@
     .main-nav__left .side-menu__toggler {
         margin-left: 0px;
     }
+	.main-nav__left .main-nav__logo {
+		padding-left: 25%;
+	}
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
