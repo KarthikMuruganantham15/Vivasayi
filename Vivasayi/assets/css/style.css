@@ -9952,7 +9952,6 @@ h6 {
         transform: rotate(0deg);
     }
 }
-
 .google-map__contact1 {
     width: 100%;
     border: none;
@@ -9960,4 +9959,21 @@ h6 {
     display: block;
     height: 560px;
     z-index: 10;
+}
+
+@media (min-width: 1000px) {
+    .best_company .company_image img {
+		height: 520px;
+		max-height: 100%;
+	}
+	.product_img img {
+		height: 676px;
+		max-height: 100%;
+	}
+}
+
+@media (max-width: 1024px) {
+    .company_image {
+		margin-right: 0px;
+	}
 }

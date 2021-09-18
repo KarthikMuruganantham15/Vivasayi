@@ -1,4 +1,6 @@
-.main-timeline{ position: relative; }
+.main-timeline{ 
+	position: relative;
+}
 .main-timeline:before,
 .main-timeline:after{
     content: "";
