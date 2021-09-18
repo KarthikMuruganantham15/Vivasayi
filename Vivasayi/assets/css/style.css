@@ -2987,6 +2987,8 @@ h6 {
     display: block;
     padding: 55px 67px 49px;
     border-radius: 5px;
+	color: #ffffff;
+	height: 100%;
 }
 .single_featured_box img {
     position: relative;

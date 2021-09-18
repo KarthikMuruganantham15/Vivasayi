@@ -537,7 +537,9 @@
         bottom: 0;
         position: relative;
     }
-
+	.about_two {
+		padding: 60px 0 0px;
+	}
     .service_one {
         padding: 120px 0 90px;
     }
@@ -553,7 +555,7 @@
         padding: 55px 20px 49px;
     }
     .single_featured_box img {
-        display: none;
+        
     }
     .single_featured_box span {
         font-size: 40px;
