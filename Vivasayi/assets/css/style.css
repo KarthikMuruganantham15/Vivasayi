@@ -2884,6 +2884,7 @@ h6 {
     background: #ffffff;
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
+	min-height:500px;
 }
 .service_1_single .content h3 {
     color: var(--thm-black);
@@ -2902,7 +2903,10 @@ h6 {
     display: block;
 }
 .service_1_img img {
-    width: 100%;
+    width: 400px;
+	height: 350px;
+	max-width: 100%;
+	background-color: #ffffff;
     opacity: 1;
     -webkit-transform: scale(1);
     transform: scale(1);

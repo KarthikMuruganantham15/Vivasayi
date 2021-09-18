@@ -1321,6 +1321,9 @@
 	.main-nav__left .main-nav__logo {
 		padding-left: 25%;
 	}
+	.service_1_img img {
+		width: 510px;
+	}
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
